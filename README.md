@@ -1,3 +1,3 @@
-# GoCasts
+# go playground
 
-Companion repo to a course on Udemy.com
+repo for playing with and testing out golang
